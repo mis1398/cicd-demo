@@ -1,4 +1,3 @@
-# hello.py
 def hello():
     return "Hello CI/CD 成功啦！"
 
